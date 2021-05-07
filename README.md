@@ -9,7 +9,9 @@
 
 ## 目录
 
-* [internal]()
+* [internal](internal)
+    * [createMathOperation](internal/createMathOperation.md)
+    * [baseToNumber](internal/baseToNumber.md)
 
 
 * [add](add.md)
