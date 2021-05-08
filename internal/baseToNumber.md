@@ -10,7 +10,7 @@
 import isSymbol from "../isSymbol.js";
 ```
 
-[lodash 源码——isSymbol.js](internal/lodash源码——isSymbol.md)
+[lodash 源码——isSymbol.js](internal/isSymbol.md)
 
 ## 源码分析
 

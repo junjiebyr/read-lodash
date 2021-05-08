@@ -9,7 +9,7 @@
 ```js
 import createMathOperation from './.internal/createMathOperation.js'
 ```
-[lodash源码——createMathOperation.js](internal/lodash源码——createMathOperation.md)
+[lodash源码——createMathOperation.js](internal/createMathOperation.md)
 
 
 ## 源码分析
