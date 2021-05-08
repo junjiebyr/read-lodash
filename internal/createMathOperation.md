@@ -11,9 +11,9 @@ import baseToNumber from "./baseToNumber.js";
 import baseToString from "./baseToString.js";
 ```
 
-[lodash 源码——baseToNumber.js](internal/baseToNumber.md)
+[lodash 源码——baseToNumber.js](baseToNumber.md)
 
-[lodash 源码——baseToString.js](internal/baseToString.md)
+[lodash 源码——baseToString.js](baseToString.md)
 
 ## 源码分析
 
