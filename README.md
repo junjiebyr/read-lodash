@@ -12,7 +12,9 @@
 * [internal](internal)
     * [createMathOperation](internal/createMathOperation.md)
     * [baseToNumber](internal/baseToNumber.md)
+    * [baseToString](internal/baseToString.md)
 
 
 * [add](add.md)
+* [isSymbol](isSymbol.md)
 

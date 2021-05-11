@@ -47,6 +47,7 @@ function baseToString(value) {
   return (result == '0' && (1 / value) == -INFINITY) ? '-0' : result
 }
 ```
-
+将value转换成字符串，首先判断是否是`string`类型，然后在判断是否是`symbol`类型，
+需要注意的是，最后需要判断`value`的值是不是 `-0`。
 
 
